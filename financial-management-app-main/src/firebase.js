@@ -4,7 +4,7 @@ import { getFirestore } from 'firebase/firestore';
 
 const app = initializeApp({
   
-  apiKey: "AIzaSyAOB9l2bh9dTD0MRxi0A9QOZWckIPQFuoE",
+ 
   authDomain: "saferoute-407318.firebaseapp.com",
   databaseURL: "https://saferoute-407318-default-rtdb.firebaseio.com",
   projectId: "saferoute-407318",
